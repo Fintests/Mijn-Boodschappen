@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.ShopList" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>ShopList</name>
+    <name>Boodschappenlijst</name>
     <description>
-        ShopList Application
+        Mijn Boodachappen App
     </description>
-    <author email="shuklendu.ha@gmail.com" href="https://plus.google.com/u/0/+ShuklenduAyachit/about">
-        Shuklendu Ayachit
+    <author email="finfrans@gmail.com" href="http://www.webyoub.tk">
+        webyoub
     </author>
     <preference name="permissions" value="none" />
     <preference name="phonegap-version" value="3.5.0" />
